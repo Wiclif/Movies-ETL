@@ -1,6 +1,8 @@
 # Movies-ETL
 Amazing Prime video was a platform for streaming movies and Tv shows on Amazing Prime. Amazing prime video team would like to develop an algorithm to predict which low budget movies being released will become popular so that they can buy the streaming rights at a bargain.
 There are two data sources: a scrape of wikipedia for all movies released since 1990 and the rating data from the movie lands website.
+
+## Objective
 The task is to extract the data from the two sources, transform it into one clean dataset, and finally load that data set into SQL table
 
 ## Methodology
